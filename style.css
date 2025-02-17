@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contrato de Amor</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            background-color: #ADD8E6;
+            background-image: url('https://upload.wikimedia.org/wikipedia/en/0/05/Hello_Kitty.svg');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            font-size: 36px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Renovação de contrato de amor da minha vida</h1>
+</body>
+</html>
